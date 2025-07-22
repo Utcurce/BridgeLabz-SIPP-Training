@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BridgeLab.iml" filepath="$PROJECT_DIR$/BridgeLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" filepath="$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controlflows/Controlflows.iml" filepath="$PROJECT_DIR$/Controlflows/Controlflows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation_Polymorphism_Interface/Encapsulation_Polymorphism_Interface.iml" filepath="$PROJECT_DIR$/Encapsulation_Polymorphism_Interface/Encapsulation_Polymorphism_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hash_Maps&amp;Hash/Hash_Maps&amp;Hash.iml" filepath="$PROJECT_DIR$/Hash_Maps&amp;Hash/Hash_Maps&amp;Hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/Hashmap/Hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaConstructors_InstanceVsClass_Variables_AccessModifiers/JavaConstructors_InstanceVsClass_Variables_AccessModifiers.iml" filepath="$PROJECT_DIR$/JavaConstructors_InstanceVsClass_Variables_AccessModifiers/JavaConstructors_InstanceVsClass_Variables_AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object_Oriented_Design_Principles/Object_Oriented_Design_Principles.iml" filepath="$PROJECT_DIR$/Object_Oriented_Design_Principles/Object_Oriented_Design_Principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Single_Inheritance/Single_Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Single_Inheritance/Single_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks_Queues/Stacks_Queues.iml" filepath="$PROJECT_DIR$/Stacks_Queues/Stacks_Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks_and_Queues/Stacks_and_Queues.iml" filepath="$PROJECT_DIR$/Stacks_and_Queues/Stacks_and_Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/This_Static_FinalKeyWord/This_Static_FinalKeyWord.iml" filepath="$PROJECT_DIR$/This_Static_FinalKeyWord/This_Static_FinalKeyWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshops/Workshops.iml" filepath="$PROJECT_DIR$/Workshops/Workshops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/method.iml" filepath="$PROJECT_DIR$/practice/method.iml" />
+    </modules>
+  </component>
+</project>
